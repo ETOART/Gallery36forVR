@@ -1,0 +1,357 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4809207022933087258
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4809207022933087261}
+  - component: {fileID: 4809207022933087260}
+  - component: {fileID: 4809207022933087259}
+  m_Layer: 0
+  m_Name: LoadingPrefabs
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4809207022933087261
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4809207022933087258}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 24.236649, y: 2.49883, z: 13.908632}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4809207022933087260
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4809207022933087258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e073c12df3347b46a8d009fbb549e1e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  progressText: {fileID: 0}
+  authorsText: "<li class=\"sf-field-post-meta-author\" data-sf-field-name=\"_sfm_author\"
+    data-sf-field-type=\"post_meta\" data-sf-field-input-type=\"select\" data-sf-meta-type=\"choice\">\t\t<label>\n\t\t\t\t<select
+    name=\"_sfm_author[]\" class=\"sf-input-select\" title=\"\">\n\t\t\t\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 sf-item-0\" data-sf-depth=\"0\" value=\"\">Authors</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"2\" data-sf-depth=\"0\" value=\"Adam Adamus\">Adam
+    Adamus&nbsp;&nbsp;(2)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"1\"
+    data-sf-depth=\"0\" value=\"Adam G\xF3rnikowski\">Adam G\xF3rnikowski&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"19\" data-sf-depth=\"0\" value=\"Adam Grzybowski\">Adam
+    Grzybowski&nbsp;&nbsp;(19)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \"
+    data-sf-count=\"3\" data-sf-depth=\"0\" value=\"Adam Krenich\">Adam Krenich&nbsp;&nbsp;(3)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"4\" data-sf-depth=\"0\" value=\"Adam Ma\u0142ecki\">Adam
+    Ma\u0142ecki&nbsp;&nbsp;(4)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"18\" data-sf-depth=\"0\" value=\"Adam Marczukiewicz\">Adam
+    Marczukiewicz&nbsp;&nbsp;(18)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"9\" data-sf-depth=\"0\" value=\"Adam Strumi\u0144ski\">Adam
+    Strumi\u0144ski&nbsp;&nbsp;(9)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"2\" data-sf-depth=\"0\" value=\"Adam Witek\">Adam Witek&nbsp;&nbsp;(2)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"38\" data-sf-depth=\"0\" value=\"Aleksander
+    Kost\">Aleksander Kost&nbsp;&nbsp;(38)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"3\" data-sf-depth=\"0\" value=\"Alex Rud\">Alex Rud&nbsp;&nbsp;(3)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"294\" data-sf-depth=\"0\" value=\"Alfred
+    Anio\u0142\">Alfred Anio\u0142&nbsp;&nbsp;(294)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"4\" data-sf-depth=\"0\" value=\"Alina Tracz\">Alina
+    Tracz&nbsp;&nbsp;(4)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"6\"
+    data-sf-depth=\"0\" value=\"Andrij Burymenko\">Andrij Burymenko&nbsp;&nbsp;(6)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Andrzej
+    Bia\u0142ecki\">Andrzej Bia\u0142ecki&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"18\" data-sf-depth=\"0\" value=\"Andrzej
+    Kamie\u0144ski\">Andrzej Kamie\u0144ski&nbsp;&nbsp;(18)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"22\" data-sf-depth=\"0\" value=\"Andrzej
+    Leszczyc\">Andrzej Leszczyc&nbsp;&nbsp;(22)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"5\" data-sf-depth=\"0\" value=\"Andrzej \u0141oniewski\">Andrzej
+    \u0141oniewski&nbsp;&nbsp;(5)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Andrzej Marty\u0144ski\">Andrzej
+    Marty\u0144ski&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"2\" data-sf-depth=\"0\" value=\"Andrzej Opali\u0144ski\">Andrzej
+    Opali\u0144ski&nbsp;&nbsp;(2)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"5\" data-sf-depth=\"0\" value=\"Andrzej Piecha\">Andrzej Piecha&nbsp;&nbsp;(5)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"2\" data-sf-depth=\"0\" value=\"Anna Garcarz\">Anna
+    Garcarz&nbsp;&nbsp;(2)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"4\"
+    data-sf-depth=\"0\" value=\"Anna Ma\u0144kowska\">Anna Ma\u0144kowska&nbsp;&nbsp;(4)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"9\" data-sf-depth=\"0\" value=\"Anna Pozna\u0144ska\">Anna
+    Pozna\u0144ska&nbsp;&nbsp;(9)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"5\" data-sf-depth=\"0\" value=\"Antoni Kowalski\">Antoni Kowalski&nbsp;&nbsp;(5)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"77\" data-sf-depth=\"0\" value=\"Antoni
+    Wielog\xF3rski\">Antoni Wielog\xF3rski&nbsp;&nbsp;(77)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"20\" data-sf-depth=\"0\" value=\"Artur
+    Kota\u015B\">Artur Kota\u015B&nbsp;&nbsp;(20)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"74\" data-sf-depth=\"0\" value=\"Artur Partycki\">Artur Partycki&nbsp;&nbsp;(74)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"78\" data-sf-depth=\"0\" value=\"Artur
+    P\u0142achta\">Artur P\u0142achta&nbsp;&nbsp;(78)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"4\" data-sf-depth=\"0\" value=\"Barbara
+    Nawrot\">Barbara Nawrot&nbsp;&nbsp;(4)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"49\" data-sf-depth=\"0\" value=\"Barbara Siewierska\">Barbara
+    Siewierska&nbsp;&nbsp;(49)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \"
+    data-sf-count=\"14\" data-sf-depth=\"0\" value=\"Beata Kelez\">Beata Kelez&nbsp;&nbsp;(14)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"16\" data-sf-depth=\"0\" value=\"Bogus\u0142aw
+    Bukowy\">Bogus\u0142aw Bukowy&nbsp;&nbsp;(16)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Czes\u0142aw Pyczkowski\">Czes\u0142aw
+    Pyczkowski&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \"
+    data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Dagmara Zelek\">Dagmara Zelek&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Danuta
+    Jasi\u0144ska\">Danuta Jasi\u0144ska&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"3\" data-sf-depth=\"0\" value=\"Danuta
+    Mazurkiewicz\">Danuta Mazurkiewicz&nbsp;&nbsp;(3)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"2\" data-sf-depth=\"0\" value=\"Dariusz
+    Ociepski\">Dariusz Ociepski&nbsp;&nbsp;(2)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Dobies\u0142aw Kaczmarek\">Dobies\u0142aw
+    Kaczmarek&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \"
+    data-sf-count=\"42\" data-sf-depth=\"0\" value=\"Dorota Zga\u0142\xF3wna\">Dorota
+    Zga\u0142\xF3wna&nbsp;&nbsp;(42)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"7\" data-sf-depth=\"0\" value=\"Edward Matyjasik\">Edward
+    Matyjasik&nbsp;&nbsp;(7)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \"
+    data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Edward Potrzebowski\">Edward
+    Potrzebowski&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"8\" data-sf-depth=\"0\" value=\"El\u017Cbieta Nato\u0144\">El\u017Cbieta
+    Nato\u0144&nbsp;&nbsp;(8)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \"
+    data-sf-count=\"25\" data-sf-depth=\"0\" value=\"Ewa Adamczyk\">Ewa Adamczyk&nbsp;&nbsp;(25)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"3\" data-sf-depth=\"0\" value=\"Ewa Bartosik\">Ewa
+    Bartosik&nbsp;&nbsp;(3)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"2\"
+    data-sf-depth=\"0\" value=\"Ewa D\u0119bska\">Ewa D\u0119bska&nbsp;&nbsp;(2)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"3\" data-sf-depth=\"0\" value=\"Ewa Grzegorczyk\">Ewa
+    Grzegorczyk&nbsp;&nbsp;(3)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \"
+    data-sf-count=\"44\" data-sf-depth=\"0\" value=\"Ewa Hasse\">Ewa Hasse&nbsp;&nbsp;(44)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"4\" data-sf-depth=\"0\" value=\"Ewa Mas\u0142owska\">Ewa
+    Mas\u0142owska&nbsp;&nbsp;(4)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"37\" data-sf-depth=\"0\" value=\"Ewelina Oz\xF3g\">Ewelina
+    Oz\xF3g&nbsp;&nbsp;(37)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"1\"
+    data-sf-depth=\"0\" value=\"Feliks Wygrzywalski\">Feliks Wygrzywalski&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"3\" data-sf-depth=\"0\" value=\"Felix\">Felix&nbsp;&nbsp;(3)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"64\" data-sf-depth=\"0\" value=\"Filip
+    \u0141ozi\u0144ski\">Filip \u0141ozi\u0144ski&nbsp;&nbsp;(64)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"10\" data-sf-depth=\"0\" value=\"Franciszek
+    Keletz\">Franciszek Keletz&nbsp;&nbsp;(10)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"12\" data-sf-depth=\"0\" value=\"Franciszek Pytka\">Franciszek
+    Pytka&nbsp;&nbsp;(12)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"113\"
+    data-sf-depth=\"0\" value=\"Frydrych Danuta\">Frydrych Danuta&nbsp;&nbsp;(113)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"2\" data-sf-depth=\"0\" value=\"Gra\u017Cyna
+    Lewicka\">Gra\u017Cyna Lewicka&nbsp;&nbsp;(2)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"6\" data-sf-depth=\"0\" value=\"Gra\u017Cyna Mucha\">Gra\u017Cyna
+    Mucha&nbsp;&nbsp;(6)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"1\"
+    data-sf-depth=\"0\" value=\"Grzegorz Jakubowski\">Grzegorz Jakubowski&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"5\" data-sf-depth=\"0\" value=\"Grzegorz
+    Ptak\">Grzegorz Ptak&nbsp;&nbsp;(5)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"15\" data-sf-depth=\"0\" value=\"Halina Kubin\">Halina Kubin&nbsp;&nbsp;(15)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Irena Lorenc\">Irena
+    Lorenc&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"7\"
+    data-sf-depth=\"0\" value=\"Jacek Meyer\">Jacek Meyer&nbsp;&nbsp;(7)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"4\" data-sf-depth=\"0\" value=\"Jacek Wierba\">Jacek
+    Wierba&nbsp;&nbsp;(4)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"1\"
+    data-sf-depth=\"0\" value=\"Jacek Zabiegaj\">Jacek Zabiegaj&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"2\" data-sf-depth=\"0\" value=\"Jan Aner\">Jan
+    Aner&nbsp;&nbsp;(2)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"20\"
+    data-sf-depth=\"0\" value=\"Jan Czarnota\">Jan Czarnota&nbsp;&nbsp;(20)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"5\" data-sf-depth=\"0\" value=\"Jan Justyna\">Jan
+    Justyna&nbsp;&nbsp;(5)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"22\"
+    data-sf-depth=\"0\" value=\"Jan Kanty Chrzanowski\">Jan Kanty Chrzanowski&nbsp;&nbsp;(22)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"8\" data-sf-depth=\"0\" value=\"Jan Nowicki\">Jan
+    Nowicki&nbsp;&nbsp;(8)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"1\"
+    data-sf-depth=\"0\" value=\"Jan Owczarek\">Jan Owczarek&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Jan Ruschill\">Jan
+    Ruschill&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"12\"
+    data-sf-depth=\"0\" value=\"Jan Szary\">Jan Szary&nbsp;&nbsp;(12)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"104\" data-sf-depth=\"0\" value=\"Jan Wysocki\">Jan
+    Wysocki&nbsp;&nbsp;(104)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \"
+    data-sf-count=\"2\" data-sf-depth=\"0\" value=\"Janina Wierusz - Kowalska\">Janina
+    Wierusz - Kowalska&nbsp;&nbsp;(2)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    sf-option-active\" selected=\"selected\" data-sf-count=\"251\" data-sf-depth=\"0\"
+    value=\"Jaros\u0142aw Kie\u0142czy\u0144ski\">Jaros\u0142aw Kie\u0142czy\u0144ski&nbsp;&nbsp;(251)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"5\" data-sf-depth=\"0\" value=\"Jerzak
+    S\u0142awek\">Jerzak S\u0142awek&nbsp;&nbsp;(5)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Jerzy Boni\">Jerzy
+    Boni&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"29\"
+    data-sf-depth=\"0\" value=\"Jerzy Domo\u0144\">Jerzy Domo\u0144&nbsp;&nbsp;(29)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"2\" data-sf-depth=\"0\" value=\"Jerzy Sosin\">Jerzy
+    Sosin&nbsp;&nbsp;(2)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"9\"
+    data-sf-depth=\"0\" value=\"Joanna Kubicka\">Joanna Kubicka&nbsp;&nbsp;(9)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"3\" data-sf-depth=\"0\" value=\"Joanna
+    Miklaszewska\">Joanna Miklaszewska&nbsp;&nbsp;(3)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"2\" data-sf-depth=\"0\" value=\"Joanna
+    Paw\u0142owska\">Joanna Paw\u0142owska&nbsp;&nbsp;(2)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"5\" data-sf-depth=\"0\" value=\"Joanna
+    Rawicz\">Joanna Rawicz&nbsp;&nbsp;(5)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Joanna Szumiec\">Joanna Szumiec&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"48\" data-sf-depth=\"0\" value=\"Jolanta
+    Kowalik\">Jolanta Kowalik&nbsp;&nbsp;(48)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Jolanta Ku\u0107mierz\">Jolanta
+    Ku\u0107mierz&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"15\" data-sf-depth=\"0\" value=\"Jolanta Kusztal\">Jolanta
+    Kusztal&nbsp;&nbsp;(15)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"15\"
+    data-sf-depth=\"0\" value=\"Jolanta Mahler\">Jolanta Mahler&nbsp;&nbsp;(15)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"3\" data-sf-depth=\"0\" value=\"Jolanta
+    Winer\">Jolanta Winer&nbsp;&nbsp;(3)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"13\" data-sf-depth=\"0\" value=\"J\xF3zef \u0141\u0105cki\">J\xF3zef
+    \u0141\u0105cki&nbsp;&nbsp;(13)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"5\" data-sf-depth=\"0\" value=\"Karol Dusza\">Karol Dusza&nbsp;&nbsp;(5)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"6\" data-sf-depth=\"0\" value=\"Karol Gawro\u0144ski\">Karol
+    Gawro\u0144ski&nbsp;&nbsp;(6)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"31\" data-sf-depth=\"0\" value=\"Karol Tarnicki Maurycy\">Karol
+    Tarnicki Maurycy&nbsp;&nbsp;(31)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"6\" data-sf-depth=\"0\" value=\"Karol Vines\">Karol Vines&nbsp;&nbsp;(6)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"284\" data-sf-depth=\"0\" value=\"Karolina
+    Muszy\u0144ska\">Karolina Muszy\u0144ska&nbsp;&nbsp;(284)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"6\" data-sf-depth=\"0\" value=\"Kazimierz
+    Tarcza\u0142owicz\">Kazimierz Tarcza\u0142owicz&nbsp;&nbsp;(6)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Krzysztof
+    Gawron\">Krzysztof Gawron&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"7\" data-sf-depth=\"0\" value=\"Krzysztof Jarz\u0105bski\">Krzysztof
+    Jarz\u0105bski&nbsp;&nbsp;(7)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Krzysztof Michno\">Krzysztof
+    Michno&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"3\"
+    data-sf-depth=\"0\" value=\"Krzysztof Tabor\">Krzysztof Tabor&nbsp;&nbsp;(3)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"2\" data-sf-depth=\"0\" value=\"Krzysztof
+    Wodnicki\">Krzysztof Wodnicki&nbsp;&nbsp;(2)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Kutrybala\">Kutrybala&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"3\" data-sf-depth=\"0\" value=\"Lalka\">Lalka&nbsp;&nbsp;(3)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"35\" data-sf-depth=\"0\" value=\"Leszek
+    Metz\">Leszek Metz&nbsp;&nbsp;(35)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"6\" data-sf-depth=\"0\" value=\"\u0141ukasz Kocjan\">\u0141ukasz
+    Kocjan&nbsp;&nbsp;(6)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"1\"
+    data-sf-depth=\"0\" value=\"M. T. Zaromba\">M. T. Zaromba&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"24\" data-sf-depth=\"0\" value=\"Maciej
+    Szwec\">Maciej Szwec&nbsp;&nbsp;(24)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Magdalena Weso\u0142owska\">Magdalena
+    Weso\u0142owska&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"12\" data-sf-depth=\"0\" value=\"Magdalena \u017Bo\u0142nierek\">Magdalena
+    \u017Bo\u0142nierek&nbsp;&nbsp;(12)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"3\" data-sf-depth=\"0\" value=\"Marek Ku\u0142ak\">Marek Ku\u0142ak&nbsp;&nbsp;(3)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"10\" data-sf-depth=\"0\" value=\"Maria
+    Irzyk\">Maria Irzyk&nbsp;&nbsp;(10)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Maria Kocjan\">Maria Kocjan&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"134\" data-sf-depth=\"0\" value=\"Marian
+    Jesie\u0144\">Marian Jesie\u0144&nbsp;&nbsp;(134)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"2\" data-sf-depth=\"0\" value=\"Mariola
+    Nejman\">Mariola Nejman&nbsp;&nbsp;(2)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Markowski M\">Markowski M&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"3\" data-sf-depth=\"0\" value=\"Marlena
+    Lozinska\">Marlena Lozinska&nbsp;&nbsp;(3)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"5\" data-sf-depth=\"0\" value=\"Martyna M\u0105czka\">Martyna
+    M\u0105czka&nbsp;&nbsp;(5)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \"
+    data-sf-count=\"12\" data-sf-depth=\"0\" value=\"Mateusz Lewandowski\">Mateusz
+    Lewandowski&nbsp;&nbsp;(12)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"22\" data-sf-depth=\"0\" value=\"Micha\u0142 Dobrowolski\">Micha\u0142
+    Dobrowolski&nbsp;&nbsp;(22)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"22\" data-sf-depth=\"0\" value=\"Micha\u0142 Halisz\">Micha\u0142
+    Halisz&nbsp;&nbsp;(22)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"82\"
+    data-sf-depth=\"0\" value=\"Micha\u0142 S\u0142awomir Dobrowolski\">Micha\u0142
+    S\u0142awomir Dobrowolski&nbsp;&nbsp;(82)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"10\" data-sf-depth=\"0\" value=\"Nieznany artysta\">Nieznany
+    artysta&nbsp;&nbsp;(10)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"8\"
+    data-sf-depth=\"0\" value=\"Nikifor\">Nikifor&nbsp;&nbsp;(8)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Oksana
+    Osowska\">Oksana Osowska&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"6\" data-sf-depth=\"0\" value=\"Olga Kost\">Olga Kost&nbsp;&nbsp;(6)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"2\" data-sf-depth=\"0\" value=\"Olga Litwinowa\">Olga
+    Litwinowa&nbsp;&nbsp;(2)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \"
+    data-sf-count=\"2\" data-sf-depth=\"0\" value=\"Patryk Tyburkiewicz\">Patryk
+    Tyburkiewicz&nbsp;&nbsp;(2)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"15\" data-sf-depth=\"0\" value=\"Pawe\u0142 Kr\xF3lik\">Pawe\u0142
+    Kr\xF3lik&nbsp;&nbsp;(15)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \"
+    data-sf-count=\"20\" data-sf-depth=\"0\" value=\"Pawe\u0142 Nowakowski\">Pawe\u0142
+    Nowakowski&nbsp;&nbsp;(20)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \"
+    data-sf-count=\"53\" data-sf-depth=\"0\" value=\"Pentti Vainio\">Pentti Vainio&nbsp;&nbsp;(53)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"3\" data-sf-depth=\"0\" value=\"Piotr Le\u015B\">Piotr
+    Le\u015B&nbsp;&nbsp;(3)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"104\"
+    data-sf-depth=\"0\" value=\"Piotr Topolski\">Piotr Topolski&nbsp;&nbsp;(104)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"37\" data-sf-depth=\"0\" value=\"Przemi\u0142a
+    Ko\u015Bcielna\">Przemi\u0142a Ko\u015Bcielna&nbsp;&nbsp;(37)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"2\" data-sf-depth=\"0\" value=\"Rafa\u0142
+    Blaszy\u0144ski\">Rafa\u0142 Blaszy\u0144ski&nbsp;&nbsp;(2)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Renata
+    Kulig\">Renata Kulig&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"2\" data-sf-depth=\"0\" value=\"Renata Ma\u015Bny\">Renata
+    Ma\u015Bny&nbsp;&nbsp;(2)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \"
+    data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Robert Matejko\">Robert Matejko&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"3\" data-sf-depth=\"0\" value=\"Robert
+    Pasieka\">Robert Pasieka&nbsp;&nbsp;(3)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"94\" data-sf-depth=\"0\" value=\"Roman Hennel\">Roman Hennel&nbsp;&nbsp;(94)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"4\" data-sf-depth=\"0\" value=\"Roman Zakrzewski\">Roman
+    Zakrzewski&nbsp;&nbsp;(4)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \"
+    data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Romuald Ku\u0142akowski\">Romuald
+    Ku\u0142akowski&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"10\" data-sf-depth=\"0\" value=\"Ryszard Karchut\">Ryszard
+    Karchut&nbsp;&nbsp;(10)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"4\"
+    data-sf-depth=\"0\" value=\"Ryszard Michalski\">Ryszard Michalski&nbsp;&nbsp;(4)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"63\" data-sf-depth=\"0\" value=\"Ryszard
+    St\u0119pie\u0144\">Ryszard St\u0119pie\u0144&nbsp;&nbsp;(63)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Seweryn\">Seweryn&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"12\" data-sf-depth=\"0\" value=\"Stanis\u0142aw
+    Karpowicz\">Stanis\u0142aw Karpowicz&nbsp;&nbsp;(12)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"2\" data-sf-depth=\"0\" value=\"Stanis\u0142aw
+    Suder Jerzy\">Stanis\u0142aw Suder Jerzy&nbsp;&nbsp;(2)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"39\" data-sf-depth=\"0\" value=\"Stanis\u0142aw
+    Wilk\">Stanis\u0142aw Wilk&nbsp;&nbsp;(39)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"5\" data-sf-depth=\"0\" value=\"Swiet\u0142ana Tkaczuk\">Swiet\u0142ana
+    Tkaczuk&nbsp;&nbsp;(5)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"3\"
+    data-sf-depth=\"0\" value=\"Szewczyk\">Szewczyk&nbsp;&nbsp;(3)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"323\" data-sf-depth=\"0\" value=\"Tadeusz
+    Wojtkowski\">Tadeusz Wojtkowski&nbsp;&nbsp;(323)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"16\" data-sf-depth=\"0\" value=\"Teresa
+    Kocjan\">Teresa Kocjan&nbsp;&nbsp;(16)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"21\" data-sf-depth=\"0\" value=\"Tomasz Bednarski\">Tomasz
+    Bednarski&nbsp;&nbsp;(21)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \"
+    data-sf-count=\"8\" data-sf-depth=\"0\" value=\"Tomasz Gil\">Tomasz Gil&nbsp;&nbsp;(8)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"13\" data-sf-depth=\"0\" value=\"Urszula
+    Lema\u0144ska\">Urszula Lema\u0144ska&nbsp;&nbsp;(13)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"103\" data-sf-depth=\"0\" value=\"Viktor
+    Fridrikh\">Viktor Fridrikh&nbsp;&nbsp;(103)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Waldemar Hussen\">Waldemar
+    Hussen&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"2\"
+    data-sf-depth=\"0\" value=\"Wanda Rajewska\">Wanda Rajewska&nbsp;&nbsp;(2)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"7\" data-sf-depth=\"0\" value=\"Wa\u017Cydr\u0105g
+    Zbigniew\">Wa\u017Cydr\u0105g Zbigniew&nbsp;&nbsp;(7)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"5\" data-sf-depth=\"0\" value=\"Wies\u0142aw
+    Kr\xF3l\">Wies\u0142aw Kr\xF3l&nbsp;&nbsp;(5)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"18\" data-sf-depth=\"0\" value=\"Wies\u0142aw Wanat\">Wies\u0142aw
+    Wanat&nbsp;&nbsp;(18)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"2\"
+    data-sf-depth=\"0\" value=\"Wiktor Kott\">Wiktor Kott&nbsp;&nbsp;(2)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"3\" data-sf-depth=\"0\" value=\"Witold
+    Liszke\">Witold Liszke&nbsp;&nbsp;(3)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"45\" data-sf-depth=\"0\" value=\"W\u0142odzimierz Skuza\">W\u0142odzimierz
+    Skuza&nbsp;&nbsp;(45)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0 \" data-sf-count=\"1\"
+    data-sf-depth=\"0\" value=\"Wola\u0144ski K.\">Wola\u0144ski K.&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"23\" data-sf-depth=\"0\" value=\"Zbigniew
+    Ba\u0142uta\">Zbigniew Ba\u0142uta&nbsp;&nbsp;(23)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"74\" data-sf-depth=\"0\" value=\"Zbigniew
+    Cortez Zaj\u0105c\">Zbigniew Cortez Zaj\u0105c&nbsp;&nbsp;(74)</option>\n\t\t\t\t\t\t<option
+    class=\"sf-level-0 \" data-sf-count=\"12\" data-sf-depth=\"0\" value=\"Zbigniew
+    Zabiegaj\">Zbigniew Zabiegaj&nbsp;&nbsp;(12)</option>\n\t\t\t\t\t\t<option class=\"sf-level-0
+    \" data-sf-count=\"1\" data-sf-depth=\"0\" value=\"Zelek Dagmara\">Zelek Dagmara&nbsp;&nbsp;(1)</option>\n\t\t\t\t\t</select>\n\t\t</label>\t\t</li>"
+  Artists: []
+  isArtistListReady: 0
+--- !u!114 &4809207022933087259
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4809207022933087258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82dcaaee09dcd5442a65bbb76c8c3bf1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadingPrefabs: {fileID: 4809207022933087260}
+  ArtistsNames: []
+  artistName: kielczynski
+  count: 0
+  isArtistNamesRedy: 0

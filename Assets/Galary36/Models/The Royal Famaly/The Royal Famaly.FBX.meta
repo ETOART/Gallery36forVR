@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: f718c03b97767ca4e8dde21e33d5f8fb
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beeds
+    second: {fileID: 2100000, guid: a5f95c1d51fa6024e81f31b476dd65b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Drevo
+    second: {fileID: 2100000, guid: 6196f469eef73524d9f356c227eef69b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fon
+    second: {fileID: 2100000, guid: 14ecc986e3e8ce44c82810338233c870, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fon3
+    second: {fileID: 2100000, guid: e5972798c36d3a34ea29b8584ff28569, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: King_bottom
+    second: {fileID: 2100000, guid: 515ef21f6f07bd5499b7fba8fccbe76a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: King_eye
+    second: {fileID: 2100000, guid: 56335f9c7562e1748bf2811df0046d8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: King_eyebrow
+    second: {fileID: 2100000, guid: bef958fb7ae89d64ba31016a0d86d445, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: King_eyelid
+    second: {fileID: 2100000, guid: 3ce35b4be1a6beb4ab2f50328af7e1d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: King_head
+    second: {fileID: 2100000, guid: 95e5f3346e2ba454aa2f7e641dafc707, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: King_kron
+    second: {fileID: 2100000, guid: 4246c36d37cb63248add26ef10fdd9a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: King_skipetr
+    second: {fileID: 2100000, guid: 96dae3949bb8b4c4a80c18b8b9e27ec4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nit
+    second: {fileID: 2100000, guid: 89f6ae6db443c4c4398fc6b9f1674c57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Princess_Hand
+    second: {fileID: 2100000, guid: d9aedf187c1e4be4ab870aa7915dd35a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Princess_Shoes
+    second: {fileID: 2100000, guid: 5fd1a62dc291d4143878a7cd738cfadc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Princess_eyebrow
+    second: {fileID: 2100000, guid: 613d021e9324c744e934352df3601566, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Princess_eyelid
+    second: {fileID: 2100000, guid: 34a87659badf7b04792f5950980edcb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Princess_hair
+    second: {fileID: 2100000, guid: 1c727eb3a3f602141a84a4bb6c0dba66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Princess_head
+    second: {fileID: 2100000, guid: 613edc6492beaf5488b06b80eda78f25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Princess_leg
+    second: {fileID: 2100000, guid: 077c23feb8e952b40ac221cdd78a9a82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Princess_torso
+    second: {fileID: 2100000, guid: 8576e8ce2c43cfb4f8a8976c146330fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: baked_Princess_eye
+    second: {fileID: 2100000, guid: 5b08effdba61bed40826109367d9d8a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ball
+    second: {fileID: 2100000, guid: d3c5b3c189478404d822eba8733c43aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drevo_krone
+    second: {fileID: 2100000, guid: 137e4b544c772774da7ea79743e97ea4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fort
+    second: {fileID: 2100000, guid: 6f75de5fecade3646b34ea9ce59106cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: king
+    second: {fileID: 2100000, guid: 310bf461740847d43bdfef5f1578dd06, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fon
+    second: {fileID: 2800000, guid: ccba1e0618a21474ba15264a0baaf171, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: King_bottom_DiffuseMap
+    second: {fileID: 2800000, guid: fd9b71022ad649b4abd4601a772a7d6b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: King_bottom_NormalsMap
+    second: {fileID: 2800000, guid: 56d94a8c6eb2e8f4b8d2c518f564db46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: King_eye_leftDiffuseMap
+    second: {fileID: 2800000, guid: bfccf477a67bacf4dad40f13aabeca8e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: King_eye_leftNormalsMap
+    second: {fileID: 2800000, guid: c9a13ae17b9e51e439d2f88cc05bef60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: King_head_DiffuseMap
+    second: {fileID: 2800000, guid: ed539cbd19fb62e4e88b9e61796649c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: King_head_NormalsMap
+    second: {fileID: 2800000, guid: 8ff5d363b13cb474cbb653881edffec7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Princess_Hand_DiffuseMap
+    second: {fileID: 2800000, guid: 6c7c069de2936754eb156f2e0f97140b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Princess_Hand_NormalsMap
+    second: {fileID: 2800000, guid: b7e14df5046594d43a52375cf3d5de4e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Princess_Shoes_DiffuseMap
+    second: {fileID: 2800000, guid: db48576356a9be4488aaaab86ccff314, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Princess_Shoes_NormalsMap
+    second: {fileID: 2800000, guid: 5b8eb4349d0b3d6419b1ac1ada7985a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Princess_eye_DiffuseMap
+    second: {fileID: 2800000, guid: f2df91b4d3771774589b4a76dbb4b074, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Princess_eye_NormalsMap
+    second: {fileID: 2800000, guid: cc3b1cfd4f950324db1798494013c48e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Princess_hair_DiffuseMap
+    second: {fileID: 2800000, guid: 0989d43430d9dad44ba08aaf17977d4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Princess_hair_NormalsMap
+    second: {fileID: 2800000, guid: 692228ed8e3536942833229226334429, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Princess_head_DiffuseMap
+    second: {fileID: 2800000, guid: 70b8d075164a84f43a53417c53249686, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Princess_head_NormalsMap
+    second: {fileID: 2800000, guid: e42be8de68205f845a0b73eb0de18f44, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Princess_leg_DiffuseMap
+    second: {fileID: 2800000, guid: eff8fa64ea8180545bb4c09be594f4cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Princess_leg_NormalsMap
+    second: {fileID: 2800000, guid: ef027982d7d9de540a751ff9779922af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Princess_torso_DiffuseMap
+    second: {fileID: 2800000, guid: bcd6db42f77724c46ba9f544937c714e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Princess_torso_NormalsMap
+    second: {fileID: 2800000, guid: 95f68aee5dba4e441ba797159bb3eb6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle
+    second: {fileID: 2800000, guid: 3856a5049422ff04fb13c7466177cf63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: drevo_DiffuseMap
+    second: {fileID: 2800000, guid: 38bd3ac5fe7f3524a8fab3925da22900, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: drevo_NormalMap
+    second: {fileID: 2800000, guid: 4d6e268afc272f9448b551e967a1d334, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: drevo_krone_DiffuseMap
+    second: {fileID: 2800000, guid: 96a6105693551894296a3a13aa2c6b1a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: drevo_krone_opacityMap
+    second: {fileID: 2800000, guid: 9947b3215f0b9f34c90d446f9ba252fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fon2
+    second: {fileID: 2800000, guid: 2141c31ef90c1ad4ba15ccfdcdef7b77, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_torso_DiffuseMap
+    second: {fileID: 2800000, guid: df8ed392b0a4b1742bd96ea600778a3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: king_torso_NormalsMap
+    second: {fileID: 2800000, guid: 99c124bb6cb520646b54d0b821eb4241, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 0
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

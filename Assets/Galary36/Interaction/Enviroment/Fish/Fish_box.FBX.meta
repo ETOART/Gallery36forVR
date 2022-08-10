@@ -1,0 +1,517 @@
+fileFormatVersion: 2
+guid: 0620efceb880444438a60ba3d0ef31a0
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Balon_mini
+    second: {fileID: 2100000, guid: e7e69203e826fd840a79d0d75e15ed7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bird
+    second: {fileID: 2100000, guid: 75e7ec3bcd73e1d4a95d7cb6fd878ba4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box
+    second: {fileID: 2100000, guid: 5151c84db6d44f942bc64b9f986286ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buka
+    second: {fileID: 2100000, guid: 6c52a295b8051a34da471059ec1f349b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chucha
+    second: {fileID: 2100000, guid: 9701068f1629c5e48a9031784e39f4d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye_Fish
+    second: {fileID: 2100000, guid: 071f34c3dc2ae0747b732ddf0d356c2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye_Larva
+    second: {fileID: 2100000, guid: 9165b532510357847bdffe003653d8ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye_Stone
+    second: {fileID: 2100000, guid: 4866689e1b2abac4d82d4a9e97f5d0b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fish
+    second: {fileID: 2100000, guid: 369f189f313ebf4489f7e7b1e36c3edd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fon
+    second: {fileID: 2100000, guid: 6357697184c060841a92bf559178cece, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Head_Larva
+    second: {fileID: 2100000, guid: 6c6732fe1f16a284288a507166bc801f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Larva
+    second: {fileID: 2100000, guid: 36ed7cdbfaee55041a159f85a033c509, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leg_1
+    second: {fileID: 2100000, guid: d4774238f1279cd4ca3c7d786a809573, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leg_2
+    second: {fileID: 2100000, guid: 738d35f3199d4104d89b7e433e873b9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MINI_Fish
+    second: {fileID: 2100000, guid: d9f9a219986c43644abe23d5dcaa99e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone
+    second: {fileID: 2100000, guid: d4108b6fbbaaf1e43ad7ecd40e91c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tooth
+    second: {fileID: 2100000, guid: 5d9e1a695ebc1e644b5af45c334b7604, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: goose
+    second: {fileID: 2100000, guid: 9946f005e067146448e30c153178550a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: men_in_Black
+    second: {fileID: 2100000, guid: ac01110d8d281914da55c8e5e81bdb23, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Balon_mini_VRayBumpNormalsMap
+    second: {fileID: 2800000, guid: 951d5e501dc4af44f9f981d689fb9250, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Balon_mini_VRayDiffuseFilterMap
+    second: {fileID: 2800000, guid: b7fcb51328a429c4eafd241b8508a5be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Balon_mini_VRayReflectionFilterMap
+    second: {fileID: 2800000, guid: 16821b91b08bc5642bf6bbfba8be97dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bird_VRayBumpNormalsMap
+    second: {fileID: 2800000, guid: 7feb3bf5587dc0d448c0de7f5ee714f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bird_VRayDiffuseFilterMap
+    second: {fileID: 2800000, guid: 72e952d3ed43f5b4686b7ba4fda36e89, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bird_VRayReflectionFilterMap
+    second: {fileID: 2800000, guid: 46b934228593ad24eb3260d0185aeb7b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Box_Diffuse
+    second: {fileID: 2800000, guid: a9fd7a9e74ba2d54786a7e3297f226eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Box_Filter
+    second: {fileID: 2800000, guid: 26927b47f5470b944b021f93e3f8d255, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Box_Normals
+    second: {fileID: 2800000, guid: 17b0ab5632acd3f429436fcb6c50b258, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Buka_VRayBumpNormalsMap
+    second: {fileID: 2800000, guid: 4af39cd8c443fe44aa55265042854346, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Buka_VRayDiffuseFilterMap
+    second: {fileID: 2800000, guid: 48d30971a266a8346b06caac6711172f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Buka_VRayRawShadowMap
+    second: {fileID: 2800000, guid: 6099cf3e10a008c4993fec1dc594332f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Chucha_VRayBumpNormalsMap
+    second: {fileID: 2800000, guid: 909922c9680defc4387f7aee8a849647, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Chucha_VRayDiffuseFilterMap
+    second: {fileID: 2800000, guid: 6550e477fb4aaeb429eece31e9c06084, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Chucha_VRayReflectionFilterMap
+    second: {fileID: 2800000, guid: bc6e6d4351dc66f48a10a414f1f25681, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Eye_Fish_VRayBumpNormalsMap
+    second: {fileID: 2800000, guid: ed7a229683e9f3d4397052cd586e6525, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Eye_Fish_VRayDiffuseFilterMap
+    second: {fileID: 2800000, guid: 88de9becceb4ab74b8ec350caaca3c41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Eye_Fish_VRayReflectionFilterMap
+    second: {fileID: 2800000, guid: e79088bfcefc9ec47896123683bdd43d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Eye_Larva_RayDiffuseFilterMap
+    second: {fileID: 2800000, guid: 4fb167175a6591f4da194ccbe4f5ff27, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Eye_Larva_VRayBumpNormalsMap
+    second: {fileID: 2800000, guid: 9b8bd2bd0ba32944399311ca22cf516b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Eye_Larva_VRayReflectionFilterMap
+    second: {fileID: 2800000, guid: f3aa895e4184c804b8c048bafe25e29d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Eye_Stone_RayDiffuseFilterMap
+    second: {fileID: 2800000, guid: 45b190958490dfe49bb4f87672540fd5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Eye_Stone_VRayBumpNormalsMap
+    second: {fileID: 2800000, guid: d0ff9a40e8deee345949e36c228e9b94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Eye_Stone_VRayReflectionFilterMap
+    second: {fileID: 2800000, guid: d62178563b7ce704b857fe03387db044, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fish_VRayBumpNormalsMap
+    second: {fileID: 2800000, guid: afef2ee2b4fa31c40a57c9b0dbac0e97, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fish_VRayDiffuseFilterMap
+    second: {fileID: 2800000, guid: 888260cb815b2b44b987b72bf99131d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fish_VRayLightingMap
+    second: {fileID: 2800000, guid: d85e4881af36a1e4e94a06380afaa181, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fon_Diffuse
+    second: {fileID: 2800000, guid: e48695f91a06ac241b1ad9fe65b01112, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fon_Filter
+    second: {fileID: 2800000, guid: adc84c6072109fb41be55f56b147c75a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fon_Normals
+    second: {fileID: 2800000, guid: f586b78bb9151e14ca068d782efe6a63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Head_Larva_VRayBumpNormalsMap
+    second: {fileID: 2800000, guid: 3088eac9194dca649953a5945a6a218f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Head_Larva_VRayDiffuseFilterMap
+    second: {fileID: 2800000, guid: d75141879df56b749b04757eae6f58d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Head_Larva_VRayReflectionFilterMap
+    second: {fileID: 2800000, guid: 51d786cd7df06f74f9905213f8ea8c14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Larva_VRayBumpNormalsMap
+    second: {fileID: 2800000, guid: df32eb39ecf489d4895b098db12c6b7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Larva_VRayDiffuseFilterMap
+    second: {fileID: 2800000, guid: 184c21916a2fa684b9e9858347341977, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Larva_VRayShadowMapBake
+    second: {fileID: 2800000, guid: 5a5c1b64e87038749b7550c8843e31ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leg_1_VRayBumpNormalsMap
+    second: {fileID: 2800000, guid: e2398f8d2ccf585498ddfbf89bca43f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leg_1_VRayDiffuseFilterMap
+    second: {fileID: 2800000, guid: d72f2e17e13bd2c41bbcc831ae33d00b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leg_1_VRayReflectionFilterMap
+    second: {fileID: 2800000, guid: 6bb2a380eaae064438f56eb5a3714449, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leg_2_L_VRayBumpNormalsMap
+    second: {fileID: 2800000, guid: 2454bea629995164aa5585d8f0de6db2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leg_2_L_VRayDiffuseFilterMap
+    second: {fileID: 2800000, guid: d0e51aa9015a29b40b69dc6a287cebb1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leg_2_L_VRayReflectionFilterMap
+    second: {fileID: 2800000, guid: 7aaeaca8a2d379c47b9de404a3fbcaaa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MINI_Fish001VRayBumpNormalsMap
+    second: {fileID: 2800000, guid: 2c0441fce0c78244e80bcc1cd6968cc0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MINI_Fish001VRayDiffuseFilterMap
+    second: {fileID: 2800000, guid: 922a6c1733e4fcb4fb4044e16bea6095, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MINI_Fish001VRayReflectionFilterMap
+    second: {fileID: 2800000, guid: 558c8d801ee39fe40a1869f563cc6d89, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StoneVRayBumpNormalsMap
+    second: {fileID: 2800000, guid: 34bdae52fc5e0544da7c88b4b68454f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StoneVRayDiffuseFilterMap
+    second: {fileID: 2800000, guid: 9125dada03900044eb8085643b6deac0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StoneVRayReflectionFilterMap
+    second: {fileID: 2800000, guid: e03f265e6ea3ce64da759b8c54ee9891, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ToothVRayBumpNormalsMap
+    second: {fileID: 2800000, guid: dfbb81112b4b21440bc5dbfeed185613, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ToothVRayDiffuseFilterMap
+    second: {fileID: 2800000, guid: cb959a3d41fbf8c4e9d3d26307cf9459, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ToothVRayReflectionFilterMap
+    second: {fileID: 2800000, guid: 8140e2c32d4e6b947bd64a4d49897472, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: goose_VRayBumpNormalsMap
+    second: {fileID: 2800000, guid: 8d8c33875f80dfa409088bae2a403c62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: goose_VRayDiffuseFilterMap
+    second: {fileID: 2800000, guid: defb07559d48e454bab7629bd07b8276, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: goose_VRayReflectionFilterMap
+    second: {fileID: 2800000, guid: fc33fb21820f2074e8b097ed2dbb58d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: men_in_Black_VRayBumpNormalsMap
+    second: {fileID: 2800000, guid: a5e0a51fc7265db4e8a4071ec0862071, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: men_in_Black_VRayDiffuseFilterMap
+    second: {fileID: 2800000, guid: d5e890501f7f70b42a486803cd89a3c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: men_in_Black_VRayReflectionFilterMap
+    second: {fileID: 2800000, guid: 09099ab627d10dc4e85f0be1eb14df0c, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 0
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
